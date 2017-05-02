@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">GitHub</string>
+    <string name="filter">Filter</string>
+    <string name="search">Search</string>
+    <string name="stars">Stars</string>
+    <string name="forks">Forks</string>
+    <string name="updated">Updated</string>
+    <string name="search_hint">Repository name</string>
+    <string name="watchers_rv">"Wathcers: "</string>
+    <string name="id_tag">"Id: "</string>
+    <string name="type">"Type: "</string>
+    <string name="forks_rv">"Forks: "</string>
+    <string name="language">"Language: "</string>
+    <string name="date_created">"Date created: "</string>
+    <string name="date_updated">"Date updated: "</string>
+    <string name="size">"Size: "</string>
+    <string name="score">"Score: "</string>
+    <string name="issues_rv">"Issues: "</string>
+    <string name="github_subtitle">Repository browser</string>
+    <string name="order_by">"Order by: "</string>
+    <string name="results_for">"Results for: "</string>
+    <string name="view_repository_details_on_web">View repository details on web</string>
+    <string name="view_user_details_on_web">View user details on web</string>
+    <string name="repo_details">Repository details</string>
+    <string name="user_details">User details</string>
+    <string name="user_owner_details">User/Owner details:</string>
+    <string name="image_user_info">(Click on image for more user info)</string>
+    <string name="repo_info">Repository info:</string>
+</resources>
